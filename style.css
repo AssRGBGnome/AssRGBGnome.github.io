@@ -44,6 +44,7 @@ body{
     text-shadow: 0px 9px rgba(110, 110, 255, 0.15);
 }
 #introduction p{
+    padding: 10px 10px;
     font-size: 50%;
     margin-left: 250px;
     margin-right: 250px;
