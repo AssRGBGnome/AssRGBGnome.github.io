@@ -41,7 +41,6 @@ body{
     padding-top: 150px;
     padding-bottom: 0px;
     text-align:center;
-    text-shadow: 0px 9px rgba(110, 110, 255, 0.15);
 }
 #introduction p{
     padding: 10px 10px;
@@ -56,14 +55,12 @@ body{
     padding-top: 150px;
     padding-bottom: 0px;
     text-align:center;
-    text-shadow: 0px 9px rgba(110, 110, 255, 0.15);
 }
 
 #track{
     padding-top: 25px;
-    padding-bottom: 25px;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 #games{
